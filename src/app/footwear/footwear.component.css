@@ -1,0 +1,11 @@
+.carousel-inner
+{
+    padding-left: 33%;
+}
+h1
+{
+    text-align: center;
+    color: white;
+    background-color: black;
+    border: 5px double white;
+}

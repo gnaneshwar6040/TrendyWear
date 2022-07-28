@@ -1,0 +1,24 @@
+*{
+    background-color:black;  
+    padding-top: 5px;
+}
+.container
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 10px;
+    
+}
+h3
+{
+    color:darkturquoise;
+}
+.goud
+{
+    font-family: cursive;
+    color: goldenrod;
+    display: block;
+    padding-left: 30%;
+    padding-bottom: 2px;
+    border: 5px double red;
+}

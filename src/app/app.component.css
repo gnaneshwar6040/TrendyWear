@@ -1,0 +1,13 @@
+h3{
+    margin: 0%;
+    padding: 0%;
+    color: black;
+    background-color:white;
+    text-align: center;
+}
+
+button:hover
+{
+    color: black;
+    background-color: white;
+}
